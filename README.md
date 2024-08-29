@@ -48,19 +48,7 @@ Number od Records: 50,000 movie reviews
 Data Size: approximately 50-80Mb 
 Code Files and Additional Data:150-200Mb 
 
-Document Control 
-GitHub address: sushithadevaraju/sentiment-analysis-of-imdb (github.com) 
-Security and storage 
-I’m planning to do weekly backups on cloud storage and drive 
-Data sharing: With my supervisors 
-
-Ethical Requirements: 
-GDPR Requirements: There is no personally identifying information in the anonymised IMDb Movie 
-Reviews dataset 
-Ethical Policies: As the initiative uses publicly available data for research purposes, it complies with 
-UH ethical rules by guaranteeing no harm or privacy infringement.  
-Permission to Use Data: This dataset is freely available for use under common usage licenses for 
-educational and scientific purposes.  
+You can have a look of my code metrics are evaluated
 Ethical Data Collection: IMDb ensured that the original data collectors adhered to ethical norms by 
 collecting and making the data public. 
 Meta Data: 
